@@ -1,3 +1,3 @@
 # Pygamon
-Small Game 2D project python to learn
+Small 2D Game project python to learn
 
